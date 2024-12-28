@@ -7,24 +7,20 @@
         src="./images/1.png"
         class="special-image"
         alt="Thoufeek Baber's Card" 
-    />
-</a>
-
-<style>
-    .special-image {
+        style="
+            .special-image {
         width: 100%;
         transition: transform 0.3s ease-in, box-shadow 0.3s ease-in; /* Smooth transition for transform and shadow */
         border-radius: 10px; /* Optional rounded corners */
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Initial shadow */
     }
-
     .special-image:hover {
         transform: scale(1.05); /* Slightly enlarge */
         box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); /* Stronger shadow */
     }
-</style>
-
-
+      "
+    />
+</a>
 
 
 </div>
