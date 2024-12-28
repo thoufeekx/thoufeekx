@@ -3,6 +3,15 @@
 <div align="center">
  
 
+<a href="https://bento.me/thoufeekx">
+    <img 
+        width="100%" 
+        src="https://cardivo.vercel.app/api?name=Thoufeek%20Baber&description=Cloud%20Development%20and%20Operations%20student%20at%20Algonquin%20College%20('25),%20I%20am%20deeply%20passionate%20about%20combining%20the%20power%20of%20cloud%20computing%20with%20machine%20learning%20to%20create%20transformative,%20scalable%20solutions.%20My%20journey%20spans%20community%20building,%20mentoring,%20and%20hands-on%20experience%20in%20cutting-edge%20technologies%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D19npToqiS5XoQllN-0k7NV6Mk0xb74vSP&&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=kodekarbon&instagram=thoufeekx&linkedin=thoufeekx&github=thoufeekx" 
+        alt="Thoufeek Baber's Card" 
+    />
+</a>
+
+
 <a href="https://bento.me/thoufeekx"><img width="100%" src="https://cardivo.vercel.app/api?name=Thoufeek%20Baber&description=Cloud Development and Operations student at Algonquin College ('25), I am deeply passionate about combining the power of cloud computing with machine learning to create transformative, scalable solutions. My journey spans community building, mentoring, and hands-on experience in cutting-edge technologies to deliver exceptional results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D19npToqiS5XoQllN-0k7NV6Mk0xb74vSP&&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=kodekarbon&instagram=thoufeekx&linkedin=thoufeekx&github=thoufeekx" alt="Thoufeek Baber's Card" />
 
 
