@@ -2,6 +2,10 @@
 
 <div align="center">
  
+
+<a href="https://bento.me/thoufeekx"><img width="100%" src="https://cardivo.vercel.app/api?name=Thoufeek%20Baber&description=Cloud Development and Operations student at Algonquin College ('25), I am deeply passionate about combining the power of cloud computing with machine learning to create transformative, scalable solutions. My journey spans community building, mentoring, and hands-on experience in cutting-edge technologies to deliver exceptional results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D19npToqiS5XoQllN-0k7NV6Mk0xb74vSP&&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=kodekarbon&instagram=thoufeekx&linkedin=thoufeekx&github=thoufeekx" alt="Thoufeek Baber's Card" />
+
+
 <a href="https://bento.me/thoufeekx">
     <img 
         src="./images/1.png"
