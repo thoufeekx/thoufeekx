@@ -7,12 +7,6 @@
         src="./images/1.png"
         class="special-image"
         alt="Thoufeek Baber's Card" 
-        style="
-            width: 100%; 
-            animation: float 3s ease-in-out infinite; 
-            border-radius: 10px; 
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-        "
     />
 </a>
 
