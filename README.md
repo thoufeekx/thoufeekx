@@ -3,8 +3,35 @@
 <div align="center">
  
 <a href="https://bento.me/thoufeekx">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Thoufeek%20Baber&description=Cloud Development and Operations student at Algonquin College ('25), I am deeply passionate about combining the power of cloud computing with machine learning to create transformative, scalable solutions. My journey spans community building, mentoring, and hands-on experience in cutting-edge technologies to deliver exceptional results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D19npToqiS5XoQllN-0k7NV6Mk0xb74vSP&&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=kodekarbon&instagram=thoufeekx&linkedin=thoufeekx&github=thoufeekx" alt="Thoufeek Baber's Card" />
+    <img 
+        src="./images/1.png"
+        class="special-image"
+        alt="Thoufeek Baber's Card" 
+        style="
+            width: 100%; 
+            animation: float 3s ease-in-out infinite; 
+            border-radius: 10px; 
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        "
+    />
 </a>
+
+<style>
+    .special-image {
+        width: 100%;
+        transition: transform 0.3s ease-in, box-shadow 0.3s ease-in; /* Smooth transition for transform and shadow */
+        border-radius: 10px; /* Optional rounded corners */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Initial shadow */
+    }
+
+    .special-image:hover {
+        transform: scale(1.05); /* Slightly enlarge */
+        box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); /* Stronger shadow */
+    }
+</style>
+
+
+
 
 </div>
 
