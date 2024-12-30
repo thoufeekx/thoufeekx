@@ -466,9 +466,10 @@
 ## 🎥 My YouTube Channel
 
 <h3 align="center">YouTube Stats</h3>
+<div align="center">
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzGaqa2OW4mIj2-n4sdcMrQ&layout=extruded&title_color=008F11&icon_color=008F11&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@kodekarbon)
-
+</div>
 ### My Videos
 
 <table>
