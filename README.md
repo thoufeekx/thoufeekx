@@ -123,10 +123,8 @@
 </p>
 
 <div align="center">
-  <a href="./Resume/ThoufeekBaber-Resume.pdf" download="Thoufeek_Baber_Resume">
-    <button>
-      Open Resume
-    </button>
+  <a href="./Resume/ThoufeekBaber-Resume.pdf" download="Thoufeek_Baber_Resume" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-%230A66C2.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume">
   </a>
 </div>
 
