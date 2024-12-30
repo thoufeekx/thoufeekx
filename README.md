@@ -18,7 +18,7 @@
 <h1 align="center">Oi World, I'm Thoufeek Baber</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008F11&center=true&vCenter=true&width=435&lines=Electronics+Engineer;Full-Stack+Cloud+Native+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008F11&center=true&vCenter=true&width=435&lines=Electronics+Engineer;Full-Stack+Cloud+Native+Developer;Cloud+Engineer;AI+Engineer;YouTuber;" alt="Typing SVG" />
 
 </p>
 
