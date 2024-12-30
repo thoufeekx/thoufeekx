@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Entrepreneur   |   Youtuber   |   Mentor
+  Cloud Developer   |   Youtuber   |   Mentor
 </p>
 
 <div align="center">
