@@ -123,6 +123,13 @@
 </p>
 
 
+
+<h2 align="center">🥷 My Mission</h2>
+<p align="left">To create innovative and sustainable cloud and machine learning solutions that deliver tangible value to people, improving lives and solving real-world challenges. Driven by collaboration and a commitment to growth, I aim to empower others through cutting-edge technology while fostering meaningful connections within the tech community.</p>
+
+<h2 align="center">🧑🏻‍🚀 My Vision</h2>
+<p align="left">To become a visionary leader in the tech industry, guiding teams to create groundbreaking and innovative products that leave a lasting impact. Fueled by passion, curiosity, and a relentless drive for learning, I aspire to build a business that not only achieves success but also uplifts and empowers others to reach greatness together.</p>
+
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
@@ -485,23 +492,10 @@
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=xFtNOXXZQtQ"><img src="./thumbnail/collab-llm.jpg" alt="LLM google collab" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=xFtNOXXZQtQ">Lean on</a></p>
+      <p align="center"><a href="https://www.youtube.com/watch?v=xFtNOXXZQtQ">Run LLM inside Google Collab</a></p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Epic Gameplay Montage" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Epic Gameplay Montage</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="QHD 60FPS" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">QHD 60FPS</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="BGMI Frag Movie" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">BGMI Frag Movie</a></p>
-    </td>
-  </tr>
+
 </table>
 
 </br>
