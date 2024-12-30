@@ -103,23 +103,23 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="left">
-  🚀Result-Oriented Problem Solver: With expertise in <strong style="color: #008F11;">Azure</strong>, <strong style="color: #008F11;">DevOps practices</strong>, and <strong style="color: #008F11;">AI frameworks</strong> like <strong style="color: #008F11;">PyTorch</strong> and <strong style="color: #008F11;">TensorFlow</strong>, I design secure, scalable solutions that meet industry standards and address real-world challenges.
+  🚀Result-Oriented: With expertise in <strong>Azure</strong>, <strong>DevOps practices</strong>, and <strong>AI frameworks</strong> like <strong>PyTorch</strong> and <strong>TensorFlow</strong>, I design secure, scalable solutions that meet industry standards and address real-world challenges.
 </p>
 
 <p align="left">
-  🌱Growth-Oriented Learner: Proficient in <strong style="color: #008F11;">Python</strong>, <strong style="color: #008F11;">SQL</strong>, and <strong style="color: #008F11;">React</strong>, I constantly evolve by exploring emerging technologies and refining my technical and analytical <strong style="color: #008F11;">skills</strong>.
+  🌱Lifelong Learner: Proficient in <strong>Python</strong>, <strong>SQL</strong>, and <strong>React</strong>, I constantly evolve by exploring emerging technologies and refining my technical and analytical <strong>skills</strong>.
 </p>
 
 <p align="left">
-  🤝Collaborative Leader: As a <strong style="color: #008F11;">mentor</strong> and <strong style="color: #008F11;">community builder</strong>, I empower others through impactful <strong style="color: #008F11;">events</strong>, fostering innovation and teamwork. My experience leading initiatives bridges the gap between academia and industry.
+  🤝Collaborative Leader: As a <strong>mentor</strong> and <strong>community builder</strong>, I empower others through impactful <strong>events</strong>, fostering innovation and teamwork. My experience leading initiatives bridges the gap between academia and industry.
 </p>
 
 <p align="left">
-  🔍Tech-Driven Innovator: Skilled in <strong style="color: #008F11;">IoT development</strong> (Arduino, Raspberry Pi), I specialize in developing user-centric solutions that prioritize <strong style="color: #008F11;">security</strong>, <strong style="color: #008F11;">compliance</strong>, and <strong style="color: #008F11;">performance</strong>.
+  🔍Driven Innovator:  I’m a Driven Innovator, deeply immersed in the world of cloud computing and on a mission to integrate <strong>machine learning</strong> technologies into groundbreaking solutions. My passion for harnessing data and cloud architecture fuels my creativity as I design scalable applications that tackle real-world challenges.
 </p>
 
 <p align="left">
-  💡Future-Focused Visionary: With a solid understanding of <strong style="color: #008F11;">Agile practices</strong> and a commitment to long-term impact, I am dedicated to advancing <strong style="color: #008F11;">cloud computing</strong> and <strong style="color: #008F11;">AI technologies</strong> to shape the future of a connected, efficient, and innovative <strong style="color: #008F11;">world</strong>.
+  💡Visionary: With a practical understanding of <strong >Agile practices</strong> and a commitment to long-term impact, I am dedicated to advancing <strong>cloud computing</strong> and <strong>AI technologies</strong> to shape the future of a connected, efficient, and innovative <strong>world</strong>.
 </p>
 
 
