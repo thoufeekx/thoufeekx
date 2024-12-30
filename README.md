@@ -122,6 +122,23 @@
   💡Visionary: With a practical understanding of <strong >Agile practices</strong> and a commitment to long-term impact, I am dedicated to advancing <strong>cloud computing</strong> and <strong>AI technologies</strong> to shape the future of a connected, efficient, and innovative <strong>world</strong>.
 </p>
 
+<div align="center">
+  <a href="./Resume/ThoufeekBaber-Resume.pdf" download="Thoufeek_Baber_Resume" style="text-decoration: none;">
+    <button style="
+      padding: 10px 20px; 
+      background-color: #00FF00; 
+      color: black; 
+      border: none; 
+      border-radius: 12px; 
+      cursor: pointer; 
+      font-size: 16px; 
+      font-family: Arial, sans-serif;">
+      Download Resume
+    </button>
+  </a>
+</div>
+
+
 
 
 <h2 align="center">🥷 My Mission</h2>
