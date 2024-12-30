@@ -476,16 +476,16 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=y7FUhA2Tvqw"><img src="./thumbnail/docker-ollama.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
+      <a href="https://www.youtube.com/watch?v=y7FUhA2Tvqw"><img src="./thumbnail/docker-ollama-2.jpg" alt="Ollama docker" width="300"/></a>
       <p align="center"><a href="https://www.youtube.com/watch?v=y7FUhA2Tvqw">Ollama+Docker=Local LLM </a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Bora Bora (Valorant Montage) | 1440p</a></p>
+      <a href="https://www.youtube.com/watch?v=sl9SXlbZhOc"><img src="./thumbnail/docker-streamlit2.jpg" alt="Docker+Streamlit" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=sl9SXlbZhOc">Local Python+Streamlit with Docker</a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Lean on</a></p>
+      <a href="https://www.youtube.com/watch?v=xFtNOXXZQtQ"><img src="./thumbnail/collab-llm.jpg" alt="LLM google collab" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=xFtNOXXZQtQ">Lean on</a></p>
     </td>
   </tr>
   <tr>
