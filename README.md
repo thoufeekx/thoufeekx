@@ -470,13 +470,14 @@
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzGaqa2OW4mIj2-n4sdcMrQ&layout=extruded&title_color=008F11&icon_color=008F11&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@kodekarbon)
 </div>
+
 ### My Videos
 
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Knight Gamer Setup 2.0</a></p>
+      <a href="https://www.youtube.com/watch?v=y7FUhA2Tvqw"><img src="./thumbnail/docker-ollama.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=y7FUhA2Tvqw">Ollama+Docker=Local LLM </a></p>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
