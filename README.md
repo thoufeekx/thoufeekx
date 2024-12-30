@@ -123,17 +123,9 @@
 </p>
 
 <div align="center">
-  <a href="./Resume/ThoufeekBaber-Resume.pdf" download="Thoufeek_Baber_Resume" style="text-decoration: none;">
-    <button style="
-      padding: 10px 20px; 
-      background-color: #00FF00; 
-      color: black; 
-      border: none; 
-      border-radius: 12px; 
-      cursor: pointer; 
-      font-size: 16px; 
-      font-family: Arial, sans-serif;">
-      Download Resume
+  <a href="./Resume/ThoufeekBaber-Resume.pdf" download="Thoufeek_Baber_Resume">
+    <button>
+      Open Resume
     </button>
   </a>
 </div>
